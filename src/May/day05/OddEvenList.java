@@ -1,4 +1,4 @@
-package May.day02;
+package May.day05;
 
 /**
  * Author:   wang
