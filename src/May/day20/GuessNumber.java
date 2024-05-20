@@ -38,5 +38,4 @@ public class GuessNumber {
     private int guess(int n) {
         return n;
     }
-
 }
